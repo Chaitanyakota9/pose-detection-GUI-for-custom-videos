@@ -18,15 +18,13 @@ Before running the application, ensure you have the following dependencies insta
 - Tkinter (usually included with Python installations)
 
 You can install the required packages using the following command:
-```bash```
+
 pip install opencv-python mediapipe
 
 Getting Started 😁
 
 Clone this repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/Chaitanyakota9/pose-detection-GUI-for-custom-videos.git
 
 
