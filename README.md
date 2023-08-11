@@ -18,18 +18,16 @@ Before running the application, ensure you have the following dependencies insta
 - Tkinter (usually included with Python installations)
 
 You can install the required packages using the following command:
-
-```bash
+```bash```
 pip install opencv-python mediapipe
 
-Getting Started😁
+Getting Started 😁
 
 Clone this repository to your local machine:
+
 bash
-
+Copy code
 git clone https://github.com/Chaitanyakota9/pose-detection-GUI-for-custom-videos.git
-
-
 Usage:
 
 Upon running the application, a window will appear with a title label and buttons.
@@ -39,7 +37,6 @@ You will see the video frames with detected pose landmarks and connections.
 The real-time frame rate (FPS) will be displayed at the top left corner of the video display.
 To stop processing, click the "Stop Processing" button.
 To exit the application, click the "Exit" button.
-
 Contributions:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
