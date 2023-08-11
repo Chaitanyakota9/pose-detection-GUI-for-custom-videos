@@ -28,15 +28,17 @@ Clone this repository to your local machine:
 bash
 Copy code
 git clone https://github.com/Chaitanyakota9/pose-detection-GUI-for-custom-videos.git
-Usage:
 
-Upon running the application, a window will appear with a title label and buttons.
-Click the "Open Video" button to select a custom video file (e.g., .mp4).
-Once the video is loaded, the title label will disappear, and the pose detection processing will start.
-You will see the video frames with detected pose landmarks and connections.
-The real-time frame rate (FPS) will be displayed at the top left corner of the video display.
-To stop processing, click the "Stop Processing" button.
-To exit the application, click the "Exit" button.
+
+Usage:
+1. Upon running the application, a window will appear with a title label and buttons.
+2. Click the "Open Video" button to select a custom video file (e.g., .mp4).
+3. Once the video is loaded, the title label will disappear, and the pose detection processing will start.
+4. You will see the video frames with detected pose landmarks and connections.
+5. The real-time frame rate (FPS) will be displayed at the top left corner of the video display.
+6. To stop processing, click the "Stop Processing" button.
+
+
 Contributions:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
